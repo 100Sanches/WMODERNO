@@ -14,5 +14,3 @@ delete valores[0]
 console.log(valores)
 
 console.log(typeof valores)
-
-//teste
